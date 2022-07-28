@@ -1,0 +1,5 @@
+[
+    { "type": "NPU-0", "maxEntries": 16384, "usedEntries": 3000, "percentUsage": null, "color": "" },
+    { "type": "NPU-1", "maxEntries": 16384, "usedEntries": 15000, "percentUsage": null, "color": "" },
+    { "type": "NPU-2", "maxEntries": 16384, "usedEntries": 16000, "percentUsage": null, "color": "" }
+]
